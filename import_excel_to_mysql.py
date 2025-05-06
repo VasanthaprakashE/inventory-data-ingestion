@@ -5,7 +5,7 @@ import pymysql
 conn=pymysql.connect(
             host='localhost',
             user='root',
-            password='9789472393',
+            password='xxxxxxxxx',
             db='warehouse_db')
 
 cursor=conn.cursor()
